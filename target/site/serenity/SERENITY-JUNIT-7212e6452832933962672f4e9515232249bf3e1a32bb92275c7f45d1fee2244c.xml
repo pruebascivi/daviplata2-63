@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Set De Casos Microseguros" skipped="0" tests="1" time="189.17" timestamp="2024-07-23 09:31:36"><testcase name="CP02130M_SYS_Validar proceso de compra microseguro de vida opción 1 desde el Home"><failure message="No se encontró el elemento: //XCUIElementTypeStaticText[@value='Mis bolsillos'], debido a: Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@value='Mis bolsillos'] (tried for 5 second(s) with 500 milliseconds interval)" type="java.lang.AssertionError">No se encontró el elemento: //XCUIElementTypeStaticText[@value='Mis bolsillos'], debido a: Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@value='Mis bolsillos'] (tried for 5 second(s) with 500 milliseconds interval)</failure><system-err>No se encontró el elemento: //XCUIElementTypeStaticText[@value='Mis bolsillos'], debido a: Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@value='Mis bolsillos'] (tried for 5 second(s) with 500 milliseconds interval)
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.esperarElementVisibility(UtilidadesTCS.java:401)
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.esperarElementVisibility(UtilidadesTCS.java:399)
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.esperarElementVisibility(UtilidadesTCS.java:399)
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.esperarElementVisibility(UtilidadesTCS.java:399)
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.esperarElementVisibility(UtilidadesTCS.java:399)
+daviplata.nacional.iOS.steps.LoginSteps.ingresarAApp(LoginSteps.java:235)
+daviplata.nacional.iOS.definitions.LoginDefinitions.ingresoUsuarioYContrasena(LoginDefinitions.java:45)
+✽.ingreso usuario y contrasena "CC" "10050066" "2589"(src/test/resources/features/MicroSeguro.feature:9)
+</system-err></testcase></testsuite>

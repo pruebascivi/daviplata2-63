@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Agrupación casos de PasarPlata" skipped="0" tests="1" time="150.73" timestamp="2024-07-16 04:45:04"><testcase name="CP02341M_SYS_Validar proceso de pasar plata a otro daviplata por valor cero desde el Home de daviplata el sistema no deje"/></testsuite>

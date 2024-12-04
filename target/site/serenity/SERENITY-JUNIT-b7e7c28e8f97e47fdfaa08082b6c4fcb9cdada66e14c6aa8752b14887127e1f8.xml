@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Pruebas en la funcionalidad de perfil negocio de la app Daviplata." skipped="0" tests="1" time="243.04" timestamp="2024-07-30 10:25:11"><testcase name="CP02684M_SYS_Validar la creación de catalogo nuevo con referencia."><failure message="Valido mensaje de creación de catálogo errónea" type="java.lang.AssertionError">Valido mensaje de creación de catálogo errónea</failure><system-err>Valido mensaje de creación de catálogo errónea
+daviplata.nacional.iOS.steps.negocioSteps.creacionCatalogo(negocioSteps.java:606)
+daviplata.nacional.iOS.definitions.negocioDefinitions.flujoCrearCatalogo(negocioDefinitions.java:258)
+✽.flujo crear catalogo "Equipo" "Motores" "Core Ryzen 5" "Monica" "3213702171" "Negro" "2" "5000000"(src/test/resources/features/negocio.feature:379)
+</system-err></testcase></testsuite>

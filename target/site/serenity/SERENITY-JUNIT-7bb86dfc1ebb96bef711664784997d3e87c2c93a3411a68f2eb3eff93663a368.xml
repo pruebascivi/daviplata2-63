@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Set De Pruebas de Login" skipped="0" tests="1" time="132.38" timestamp="2024-08-14 05:15:49"><testcase name="CP0010M_SYS_Validar el Login con clave correcta"><error message="org.opencv.imgcodecs.Imgcodecs.imread_1(Ljava/lang/String;)J" type="java.lang.UnsatisfiedLinkError">org.opencv.imgcodecs.Imgcodecs.imread_1(Ljava/lang/String;)J</error><system-err>org.opencv.imgcodecs.Imgcodecs.imread_1(Ljava/lang/String;)J
+org.opencv.imgcodecs.Imgcodecs.imread_1(Native Method)
+org.opencv.imgcodecs.Imgcodecs.imread(Imgcodecs.java:309)
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.localizarElementoPorImagen(UtilidadesTCS.java:2416)
+daviplata.nacional.iOS.steps.LoginSteps.ingresarAApp(LoginSteps.java:171)
+daviplata.nacional.iOS.definitions.LoginDefinitions.ingresoUsuarioYContrasena(LoginDefinitions.java:45)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+daviplata.nacional.iOS.runners.RunnerPersonalizado.run(RunnerPersonalizado.java:63)
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+</system-err></testcase></testsuite>

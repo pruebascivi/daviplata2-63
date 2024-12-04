@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Modulo Meter plata" skipped="0" tests="1" time="298.03" timestamp="2024-07-15 10:24:52"><testcase name="CP020004M_SYS_Validar meter plata exitoso desde banco &quot;BANCO UNION COLOMBIANO&quot; con usuario con tipo documento CE"><failure message="Comunicación no disponible por favor intente nuevamente" type="java.lang.AssertionError">Comunicación no disponible por favor intente nuevamente</failure><system-err>Comunicación no disponible por favor intente nuevamente
+daviplata.nacional.iOS.steps.MeterPlataSteps.clicContinuarFormularioOtrosBancos(MeterPlataSteps.java:546)
+daviplata.nacional.iOS.definitions.MeterPlataDefinitions.doyClicEnElBotonContinuarDelFormularioDesdeOtrosBancos(MeterPlataDefinitions.java:349)
+✽.Doy clic en el boton continuar del formulario desde otros bancos(src/test/resources/features/MeterPlata.feature:175)
+</system-err></testcase></testsuite>

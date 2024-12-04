@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Modulo ADS" skipped="0" tests="1" time="137.32" timestamp="2024-10-28 11:31:07"><testcase name="CP09001M_SYS_Validaciones pantalla de autorizaciones con usuarios no comunes"><failure message="&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;
+daviplata.nacional.iOS.utilidades.UtilidadesTCS.validateStatusElement(UtilidadesTCS.java:483)
+daviplata.nacional.iOS.steps.AdsSteps.ingresoAlPopUpDeAdelantoDeSueldo(AdsSteps.java:28)
+daviplata.nacional.iOS.definitions.AdsDefinitions.ingresoAlPopUpDeAdelantoDeSueldo(AdsDefinitions.java:15)
+✽.Ingreso al pop up de adelanto de sueldo(src/test/resources/features/Ads.feature:8)
+</system-err></testcase></testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Modulo Olvido Clave" skipped="0" tests="1" time="264.96" timestamp="2024-08-05 09:24:06"><testcase name="CP1289M_SYS_Validar proceso de olvido de clave para tipo documental CC"><error message="Session ID is null. Using WebDriver after calling quit()?&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'&#10;Driver info: driver.version: RemoteWebDriver&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchSessionException">Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'
+Driver info: driver.version: RemoteWebDriver
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'
+Driver info: driver.version: unknown</error><system-err>Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'
+Driver info: driver.version: RemoteWebDriver
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'
+Driver info: driver.version: unknown
+daviplata.nacional.iOS.pageObjects.WebRedebanPageObjects.clicBtnDebitoPrepago(WebRedebanPageObjects.java:521)
+daviplata.nacional.iOS.steps.WebRedebanSteps.consultaNumeroCelular(WebRedebanSteps.java:340)
+daviplata.nacional.iOS.definitions.OlvidoClaveDefinitions.consultoNumeroCelularEnRedeban(OlvidoClaveDefinitions.java:166)
+✽.Consulto numero celular en redeban "10050079"(src/test/resources/features/olvidoClave.feature:8)
+</system-err></testcase></testsuite>

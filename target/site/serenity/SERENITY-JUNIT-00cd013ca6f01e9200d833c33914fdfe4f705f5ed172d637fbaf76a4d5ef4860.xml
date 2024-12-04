@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Modulo Olvido Clave" skipped="0" tests="1" time="139.78" timestamp="2024-08-05 11:09:01"><testcase name="CP13001M_SYS_Validar proceso de olvido de clave para tipo documental CC solicitando nuevamente clave temporal"><error message="Cannot locate an element using By.xpath: //XCUIElementTypeSecureTextField[1]&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Cannot locate an element using By.xpath: //XCUIElementTypeSecureTextField[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'
+Driver info: driver.version: unknown</error><system-err>Cannot locate an element using By.xpath: //XCUIElementTypeSecureTextField[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'JPDONGUT-JW37PV36DC', ip: 'fe80:0:0:0:1881:8fe9:dda3:b69e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '1.8.0_411'
+Driver info: driver.version: unknown
+daviplata.nacional.iOS.pageObjects.OlvidoClavePageObjects.ingresarNuevaClave(OlvidoClavePageObjects.java:421)
+daviplata.nacional.iOS.steps.OlvidoClaveSteps.ingresarNuevaClave(OlvidoClaveSteps.java:95)
+daviplata.nacional.iOS.definitions.OlvidoClaveDefinitions.completarFlujoOlvidoSuClave(OlvidoClaveDefinitions.java:53)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+daviplata.nacional.iOS.runners.RunnerPersonalizado.run(RunnerPersonalizado.java:63)
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+</system-err></testcase></testsuite>
